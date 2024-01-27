@@ -17,10 +17,10 @@
 
 
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=L-K-R-N&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=L-K-R-N&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4&align=center)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=L-K-R-N&icon=0&color=6)](https://visitcount.itsvg.in)
+
 
 
 <!-- ## 📊 GitHub Stats:
@@ -32,4 +32,4 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Eptaaaaaaaa&icon=0&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Eptaaaaaaaa&icon=0&color=6)](https://visitcount.itsvg.in)
