@@ -15,10 +15,8 @@
 
 
 ## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=L-K-R-N&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4&align=center)
 
-<div align="center">
-   ![](https://github-trophies.vercel.app/?username=L-K-R-N&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4&align=center)
-</div>
 
 
 
