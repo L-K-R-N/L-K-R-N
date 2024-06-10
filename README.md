@@ -1,4 +1,4 @@
-# <h1 align="center">Fullstack разработчик, но всё же больше Frontend) </h1>
+# <h1 align="center">Frontend developer</h1>
 
 
 <br><br>
